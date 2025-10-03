@@ -29,7 +29,7 @@ const addItem = () => {
     // updateItems();
     // // Clear the input field after adding the item
     // //document.getElementById("new-item-text").value = ""; //not good practice to call the same element multiple times in a function
-};
+//};
 
 const updateItems = () => {
 //First we get the list element
